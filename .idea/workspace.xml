@@ -1,13 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3b11d957-1e23-46c0-9c1c-61ac17568ac9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1ZoK8NStdp30UczxHDU6uVtSmog" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b11d957-1e23-46c0-9c1c-61ac17568ac9" name="Default Changelist" comment="" />
+      <created>1585499846248</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585499846248</updated>
+    </task>
+    <task id="LOCAL-00001" summary="k">
+      <created>1585500013058</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585500013058</updated>
+    </task>
+    <task id="LOCAL-00002" summary="k">
+      <created>1585500096940</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585500096940</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="k" />
+    <option name="LAST_COMMIT_MESSAGE" value="k" />
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="35" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585500086120">
@@ -18,9 +65,17 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="509" y="269" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.768@0.0.1366.768" timestamp="1585499898812" />
-    <state x="284" y="0" key="CommitChangelistDialog2" timestamp="1585500009687">
+    <state x="284" y="0" key="CommitChangelistDialog2" timestamp="1585500095348">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="284" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1585500009687" />
+    <state x="284" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1585500095348" />
+    <state x="413" y="68" key="FileChooserDialogImpl" timestamp="1585500146997">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="413" y="68" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1585500146997" />
+    <state x="464" y="285" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585500103127">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="464" y="285" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768@0.0.1366.768" timestamp="1585500103127" />
   </component>
 </project>
